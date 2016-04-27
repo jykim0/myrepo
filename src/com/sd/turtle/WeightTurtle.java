@@ -4,7 +4,8 @@
  * 
  */
 
-package com.study.c1.turtle;
+
+package com.sd.turtle;
 
 import ch.aplu.turtle.*;
 import java.awt.Color;
